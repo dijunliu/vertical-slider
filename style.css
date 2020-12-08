@@ -2,6 +2,8 @@ body {
   transform-style: preserve-3d;
   perspective: 1000px;
 }
+/* i'm two this is first */
+/* i'm three */
 .slider-content {
   position: absolute;
   left: 0;
@@ -13,11 +15,11 @@ body {
   transform: rotateX(45deg);
 }
 .sliders {
-  position: absolute;
+  /* position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-  transform: translateY(-100%);
+  transform: translateY(-100%); */
 }
 .slider {
   margin-left: 2%;
