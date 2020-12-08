@@ -7,9 +7,9 @@ for (let index = 0; index < 2; index++) {
 }
 const sliders = document.querySelectorAll(".sliders");
 console.log(slider);
-let c = 0;
-let b = 1;
-let t = 2;
+// let c = 0;
+// let b = 1;
+// let t = 2;
 sliders[t].style.transform = "translateY(-100%)";
 sliders[c].style.transform = "translateY(0%)";
 sliders[b].style.transform = "translateY(100%)";
