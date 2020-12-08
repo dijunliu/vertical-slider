@@ -2,6 +2,7 @@ body {
   transform-style: preserve-3d;
   perspective: 1000px;
 }
+/* i'm two this is first */
 .slider-content {
   position: absolute;
   left: 0;
